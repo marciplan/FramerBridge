@@ -1094,7 +1094,7 @@
                 "exportOptions" : [
 
                 ],
-                "fillColor" : "var(--token-e10fc84d-f05a-43b1-a3fc-dcfb01e5bf90, rgb(119, 85, 204)) \/* {\"name\":\"primary\"} *\/",
+                "fillColor" : "hsl(257, 100%, 52%)",
                 "fillEnabled" : true,
                 "fillGradient" : {
                   "__class" : "LinearGradient",

@@ -15,7 +15,9 @@
 		"styled-components": "^4.2.0"
 	},
 	"framer": {
-		"id": "3f657e0b-fe07-43e8-95f3-c1fc3a48bef6"
+		"id": "3f657e0b-fe07-43e8-95f3-c1fc3a48bef6",
+		"displayName": "Marciplan Design System"
 	},
-	"author": "Marciano Planque"
+	"author": "Marciano Planque",
+	"name": "@framer/framer.marciplan-design-system"
 }
